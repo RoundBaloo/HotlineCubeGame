@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f5b26edab9cc384c9e59c7f12fa4499
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Disco Duck Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d6011fa74d17ef47b64d349eaadca04, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
